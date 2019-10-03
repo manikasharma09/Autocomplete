@@ -1,9 +1,7 @@
 # Autocomplete
-Autocomplete using Haystack and ElasticSearch in Django 
+      Autocomplete using Haystack and ElasticSearch in Django 
 
-# Prerequisites
-
-ElasticSearch 
+# Prerequisites 
         Run the elasticsearch server.
 
 
